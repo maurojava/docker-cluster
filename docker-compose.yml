@@ -13,7 +13,7 @@ tomcatOne:
   volumes:
    - ./cluster/server.xml:/usr/local/tomcat/conf/server.xml
    - ./cluster/ROOT:/usr/local/tomcat/webapps/ROOT
-   - ./ramki/cluster/tomcat-users.xml:/usr/local/tomcat/conf/tomcat-users.xml
+   - ./cluster/tomcat-users.xml:/usr/local/tomcat/conf/tomcat-users.xml
 tomcatTwo:
   image: tomcat
   volumes:
