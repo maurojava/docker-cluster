@@ -1,5 +1,5 @@
 
-This is a project forked by ramkicse /
+This is a project forked from ramkicse /
 docker-cluster.
 The original repo of author is: https://github.com/ramkicse/docker-cluster.git
 
