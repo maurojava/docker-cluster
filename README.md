@@ -12,6 +12,7 @@ or download the zip file .
 Next from console run this command:
 
 docker-compose -f docker-compose-3-7.yml up
+
 next go at 
 
 localhost:8080 
